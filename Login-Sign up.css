@@ -1,0 +1,19 @@
+:root{
+    --main-color:#446cad;
+    --black:#222;
+    --white:#fff;
+    --light-bg:#f3f3f3;
+    --border:2px solid black;
+    --box-shadow:0 5px 25px rgb(0,0,0,.3);
+}
+
+*{
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #666;
+}
